@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/wobot/static/css/main.1ec9d99a.css",
+    "main.js": "/wobot/static/js/main.5dfedbc7.js",
+    "static/js/787.3072eae8.chunk.js": "/wobot/static/js/787.3072eae8.chunk.js",
+    "index.html": "/wobot/index.html",
+    "main.1ec9d99a.css.map": "/wobot/static/css/main.1ec9d99a.css.map",
+    "main.5dfedbc7.js.map": "/wobot/static/js/main.5dfedbc7.js.map",
+    "787.3072eae8.chunk.js.map": "/wobot/static/js/787.3072eae8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ec9d99a.css",
+    "static/js/main.5dfedbc7.js"
+  ]
+}
