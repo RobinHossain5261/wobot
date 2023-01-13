@@ -1,0 +1,144 @@
+.body {
+    height: 100vh;
+    margin: auto;
+    position: relative;
+    background-color: #E5E5E5;
+}
+
+.logo {
+    width: 160px;
+    height: 36px;
+    padding-left: 60px;
+    padding-top: 60px;
+}
+
+.form-body {
+    width: 400px;
+    background-color: #FFFFFF;
+    border-radius: 15px;
+    padding: 40px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.top-icon {
+    text-align: center;
+    position: relative;
+    margin-bottom: 24px;
+}
+
+.icon-1 {
+    width: 18px;
+    height: 26px;
+}
+
+.icon-2 {
+    width: 24px;
+    height: 40px;
+}
+
+.icon-3 {
+    width: 15px;
+    height: 21px;
+    position: absolute;
+    top: 0px;
+}
+
+.leftRetangel {
+    position: absolute;
+    width: 40%;
+    top: 35%;
+    left: 0;
+}
+
+.rightRetangel {
+    position: absolute;
+    width: 40%;
+    top: 15%;
+    right: 0;
+}
+
+.form-body h1 {
+    width: 378px;
+    /* height: 60px; */
+    margin: auto;
+    font-weight: 500;
+    text-align: center;
+    color: #212121;
+    font-size: 26px;
+}
+
+.form-body p {
+    text-align: center;
+    color: #545454;
+    font-size: 14px;
+}
+
+.form-body form div {
+    margin-top: 20px;
+    width: 400px;
+}
+
+.lavel {
+    color: #545454;
+    font-weight: 500;
+}
+
+.form-input {
+    height: 37px;
+    width: 100%;
+    border-radius: 6px;
+    margin-top: 8px;
+    padding: 0px;
+
+}
+
+.form-select {
+    height: 37px;
+    width: 100%;
+    border-radius: 6px;
+    margin-top: 8px;
+}
+
+.company-size {
+    text-align: center;
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    column-gap: 8px;
+}
+
+.size {
+    background-color: #F0F0F0;
+    border-radius: 2px;
+    padding: 4px 8px;
+    font-weight: 500;
+    font-size: 14px;
+    color: #545454;
+    margin-top: 0px;
+}
+
+.size:hover {
+    background-color: #3766E8;
+    color: #fff;
+}
+
+.btn {
+    width: 100%;
+    background-color: #3766E8;
+    color: #fff;
+    font-weight: 700;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: 20px;
+    letter-spacing: 1px;
+}
+
+footer {
+    text-align: center;
+    background-color: #E5E5E5;
+    padding-bottom: 50px;
+
+}
